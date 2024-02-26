@@ -12,6 +12,8 @@ pogramming langauages. I am currently in the process of learning Rust. I am also
   <img src="https://img.shields.io/badge/-Rust-98b982?style=for-the-badge&logo=Rust&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Laravel-d1a01f?style=for-the-badge&logo=Php&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=Python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-98b982?style=for-the-badge&logo=React&logoColor=98b982&labelColor=282828">
+
 </div>
 </p>
 
